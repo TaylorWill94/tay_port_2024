@@ -2,16 +2,18 @@
   .home {
     background: black;
     color: white;
-    position: absolute;
+    /* position: absolute;
     width: 100%;
-    height: 100%;
+    height: 100%; */
   }
 
   h1 {
     text-align: center;
+    font-family: monospace;
   }
 
   .bio {
     text-align: center;
+    font-family: monospace;
   }
 }
