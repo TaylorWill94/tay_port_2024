@@ -1,5 +1,7 @@
 @media screen and (min-width: 300px) {
-  .home {
+  .expertise {
+    display: flex;
+    flex-direction: column;
     background: black;
     color: white;
     position: absolute;
@@ -7,11 +9,9 @@
     height: 100%;
   }
 
-  h1 {
-    text-align: center;
-  }
-
-  .bio {
+  .sec {
+    border: 1px solid white;
+    margin: 20px;
     text-align: center;
   }
 }
