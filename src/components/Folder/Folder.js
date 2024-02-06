@@ -10,13 +10,14 @@ function Folder() {
       <div className="socials">
         <h2>Freelance Opportunties Avaialble</h2>
         <p>Instagram</p>
-        <a
-          href="https://www.linkedin.com/in/taylor-williams-a0683795/"
-          target="_blank"
-        >
+
+        <a href="https://github.com/TaylorWill94" target="_blank">
           <p>LinkedIn</p>
         </a>
-        <p>GitHub</p>
+
+        <a href="https://github.com/TaylorWill94" target="_blank">
+          <p>GitHub</p>
+        </a>
       </div>
     </footer>
   );
