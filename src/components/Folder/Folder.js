@@ -4,7 +4,7 @@ function Folder() {
   return (
     <footer className="folder">
       <div className="title">
-        <h2>Taylor Williams</h2>
+        <h2>Taylorjwill09@gmail.com</h2>
       </div>
 
       <div className="socials">

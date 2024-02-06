@@ -15,7 +15,6 @@ function Nav() {
       <div className="hamburger-icon" onClick={toggleMenu}>
         <div className="bar"></div>
         <div className="bar"></div>
-        <div className="bar"></div>
       </div>
 
       <div className={`nav-sec-items ${isOpen ? "open" : ""}`}>
