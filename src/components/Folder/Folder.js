@@ -10,7 +10,12 @@ function Folder() {
       <div className="socials">
         <h2>Freelance Opportunties Avaialble</h2>
         <p>Instagram</p>
-        <p>LinkedIn</p>
+        <a
+          href="https://www.linkedin.com/in/taylor-williams-a0683795/"
+          target="_blank"
+        >
+          <p>LinkedIn</p>
+        </a>
         <p>GitHub</p>
       </div>
     </footer>
