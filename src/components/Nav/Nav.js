@@ -31,7 +31,7 @@ function Nav() {
         </Link>
       </div>
 
-      <div className="name">Taylor Williams</div>
+      {/* <div className="name">Taylor Williams</div> */}
     </nav>
   );
 }
